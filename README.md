@@ -30,7 +30,7 @@ African cloths are more than just fabric; they are stories woven into geometric 
 
 ## 🎨 Engineering the Design System
 
-![Heritage & Hue Design System](assets/design-system.png)
+![Heritage & Hue Design System](./assets/design-system.png)
 
 One of the highlights of this project is the **Tactile Design Engine**. Unlike standard flat web designs, this project implements:
 
