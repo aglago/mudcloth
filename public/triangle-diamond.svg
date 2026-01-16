@@ -1,0 +1,21 @@
+<svg
+  width="40"
+  height="400"
+  viewBox="0 0 40 400"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <pattern
+      id="africaPattern"
+      width="40"
+      height="40"
+      patternUnits="userSpaceOnUse"
+    >
+      <rect width="40" height="40" fill="black" />
+      <polygon points="0,0 20,20 0,40" fill="#C62828" />
+      <polygon points="40,0 20,20 40,40" fill="#1B5E20" />
+      <polygon points="10,0 30,0 20,20" fill="#D4AF37" />
+    </pattern>
+  </defs>
+  <rect width="40" height="400" fill="url(#africaPattern)" />
+</svg>;
