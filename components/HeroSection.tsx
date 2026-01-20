@@ -31,7 +31,7 @@ export const Hero = () => {
   };
 
   return (
-    <section className="relative min-h-[80vh] md:h-screen flex items-center p-8 md:px-12 lg:px-24 bg-[url('/images/hero-image.png')] bg-cover bg-center overflow-x-hidden">
+    <section className="relative min-h-[80vh] lg:h-screen flex items-center p-8 md:px-12 lg:px-24 bg-[url('/images/hero-image.png')] bg-cover bg-center overflow-x-hidden">
       <Navbar />
 
       {/* Borders sliding in from the sides */}
