@@ -1,0 +1,20 @@
+<svg width="40" height="200" viewBox="0 0 40 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="40" height="200" fill="#0B080B"/>
+  
+  <!-- Border Lines -->
+  <rect x="0" width="2" height="200" fill="#D4AF37"/>
+  <rect x="38" width="2" height="200" fill="#D4AF37"/>
+  
+  <!-- Green Triangle -->
+  <path d="M10 10L30 25L10 40V10Z" fill="#1B5E20"/>
+  
+  <!-- Gold Diamond -->
+  <path d="M20 60L35 75L20 90L5 75L20 60Z" fill="#D4AF37"/>
+  
+  <!-- Red Inverted Triangle -->
+  <path d="M30 110L10 125L30 140V110Z" fill="#C62828"/>
+  
+  <!-- Geometric Accents -->
+  <rect x="10" y="160" width="20" height="20" fill="#D4AF37" transform="rotate(45 20 170)"/>
+  <circle cx="20" cy="170" r="4" fill="#0B080B"/>
+</svg>
