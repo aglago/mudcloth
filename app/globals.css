@@ -16,14 +16,15 @@
   --card-foreground: oklch(14.01% 0.0086 326.02);
 
   /* Brand */
-  --primary: oklch(76.65% 0.1387 91.06);
+  
   /* gold */
+  --primary: oklch(76.65% 0.1387 91.06);
   --primary-foreground: oklch(14.01% 0.0086 326.02);
-  --secondary: oklch(42.54% 0.1159 144.31);
   /* green */
+  --secondary: oklch(42.54% 0.1159 144.31);
   --secondary-foreground: oklch(100% 0 0);
-  --accent: oklch(53.86% 0.1937 26.72);
   /* red */
+  --accent: oklch(53.86% 0.1937 26.72);
   --accent-foreground: oklch(100% 0 0);
 
   /* UI */

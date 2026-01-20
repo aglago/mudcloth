@@ -66,7 +66,7 @@ To run this project locally:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/heritage-hue.git
+git clone https://github.com/aglago/mudcloth.git
 ````
 
 ### Install dependencies
@@ -106,9 +106,9 @@ As an engineer, I prioritized:
 
 I am a detail-oriented engineer focused on building digital products that combine aesthetic excellence with technical rigor. My work centers on creating performant, accessible, and meaningful user experiences.
 
-* **LinkedIn:** [Your Profile Link]
-* **GitHub:** [Your GitHub Link]
-* **Portfolio:** [Your Portfolio Link]
+* **LinkedIn:** https://linkedin.com/in/samuella-aglago
+* **Portfolio:** https://samuella.site
+* **X Profile:** https://x.com/smaglago
 
 ---
 
