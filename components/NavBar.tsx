@@ -12,6 +12,7 @@ export const Navbar = () => {
     { name: "Home", href: "#" },
     { name: "Gallery", href: "#" },
     { name: "About Us", href: "#" },
+    { name: "Design", href: "/design" },
   ];
 
   return (
